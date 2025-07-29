@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title> ... KANSAGRA MANAV ATULBHAI 1e782f ... </title>
+</head>
+<body>
+
+  <h1>Welcome to My Sample HTML Page</h1>
+
+  <div>
+    <p>Hello, my name is <strong>Kansagra Manav Atulbhai</strong>. I am learning HTML and this is a simple web page example.</p>
+    <p>This text use the <em>em</em> tag to show <em>italics</em> without using the <code>&lt;i&gt;</code> tag.</p>
+  </div>
+
+  <p>Here are some useful links:</p>
+  <ul>
+    <li><a href="https://www.w3schools.com">Learn HTML</a></li>
+    <li><a href="https://developer.mozilla.org">MDN Web Docs</a></li>
+    <li><a href="https://www.freecodecamp.org">FreeCodeCamp</a></li>
+  </ul>
+
+  <p>This is an additional <span>inline span</span> element just to fulfill that requirement.</p>
+
+</body>
+</html>
