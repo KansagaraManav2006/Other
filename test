@@ -10,7 +10,7 @@
 
   <div>
     <p>Hello, my name is <strong>Kansagra Manav Atulbhai</strong>. I am learning HTML and this is a simple web page example.</p>
-    <p>This text uses the <em>em</em> tag to show <em>italics</em> without using the <code>&lt;i&gt;</code> tag.</p>
+    <p>This text use the <em>em</em> tag to show <em>italics</em> without using the <code>&lt;i&gt;</code> tag.</p>
   </div>
 
   <p>Here are some useful links:</p>
